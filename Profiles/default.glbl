@@ -4,4 +4,19 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://portal.document360.io'</initValue>
+      <name>BaseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'kuzhali.maheswaran@biztalk360.co.uk'</initValue>
+      <name>Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'kuzhali'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
